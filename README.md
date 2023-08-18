@@ -39,5 +39,5 @@ beispielweise so:
 bilder     A   a   B   b   C   cDdEe---F---f ....
 beat    ---x---x---x---x---x---xxxxx---x---x ....\
     
-([inspiration](https://youtu.be/us0ScLgD4s4?t=134))
+([inspiration](https://youtu.be/us0ScLgD4s4?t=134), ohne fliessende bilduebergaenge)
 
