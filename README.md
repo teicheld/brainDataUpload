@@ -28,16 +28,16 @@ es werden sinnvolle verknuepfungen zu lerninhalten erzeugt und diese werden dire
 
 ## wie functioniert das programm?
 
-- jede lerneinheit besteht aus stichwoertern, passende bilder und einem rapInstrumental beat.\
-- es werden stichwoerter importiert (anki, txtList, json??) und in bilder convertiert\
-- es werden passende bilder importiert (autogrep from internet)\
-- es wird ein beat importiert (rap instrumental) oder default\
-- der beat mit zeitpunkten des schlagzeugBeats versehen\
-- zu jedem zeitpunkt wird ein bild angezeigt waerend der beat laeuft. die verknuepten bilder kommen nacheinander.\
+- jede lerneinheit besteht aus stichwoertern, passende bilder und einem rapInstrumental beat.
+- es werden stichwoerter importiert (anki, txtList, json??) und in bilder convertiert
+- es werden passende bilder importiert (autogrep from internet)
+- es wird ein beat importiert (rap instrumental) oder default
+- der beat mit zeitpunkten des schlagzeugBeats versehen
+- zu jedem zeitpunkt wird ein bild angezeigt waerend der beat laeuft. die verknuepten bilder kommen nacheinander.
 beispielweise so:
 
-bilder     A   a   B   b   C   cDdEe---F---f ....
-beat    ---x---x---x---x---x---xxxxx---x---x ....\
+bilder     A   a   B   b   C   cDdEe---F---f ....\
+beat    ---x---x---x---x---x---xxxxx---x---x ....
     
 ([inspiration](https://youtu.be/us0ScLgD4s4?t=134), ohne fliessende bilduebergaenge)
 
