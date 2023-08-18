@@ -1,11 +1,11 @@
 # projectAnalyse
 
 wer sind die zielpersonen?\
-was wollen die zielpersonen?\
+was wollen die zielpersonen?
 
 welches problem loest des tool?\
 wie wird das problem geloest?\
-wie functioniert das programm?\
+wie functioniert das programm?
 
 
 ## wer sind die zielpersonen?
@@ -14,11 +14,11 @@ kinder der buerokratie
 
 ## was wollen die zielpersonen?
 
-bullshit schnell lernen\
+bullshit schnell lernen
 
 ## welches problem loest des tool?
 
-unqualitativ aufgearbeitete inhalte und falsche inhalte sorgen fuer lernblockaden.\
+unqualitativ aufgearbeitete inhalte und falsche inhalte sorgen fuer lernblockaden.
 
 ## wie wird das problem geloest?
 
@@ -35,9 +35,9 @@ es werden passende bilder importiert (autogrep from internet)\
 es wird ein beat importiert (rap instrumental) oder default\
 der beat mit zeitpunkten des schlagzeugBeats versehen\
 zu jedem zeitpunkt wird ein bild angezeigt waerend der beat laeuft. die verknuepten bilder kommen nacheinander.\
-beispielweise so:\
+beispielweise so:
 
-bilder     A   a   B   b   C   cDdEe---F---f ....\
+bilder     A   a   B   b   C   cDdEe---F---f ....
 beat    ---x---x---x---x---x---xxxxx---x---x ....\
     
 
