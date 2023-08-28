@@ -1,0 +1,4 @@
+i=0 while pygame.mixer.music.get_busy():
+        current_position = pygame.mixer.music.get_pos() / 1000.0 if peak_times[i] <= current_position:
+                i+=1 print("boom")
+j
